@@ -1,4 +1,4 @@
-# COP2000 - Introduction to Programming
+# COP2002 - Programming Logic
 
 ## Description
 This course is intended to introduce students to the concepts of computer logic and programming with, at present, the Python language. Problem solving skills using logical thinking are emphasized. Topics include but are not limited to: a brief history of computers and programming languages, how to develop a program, the three basic programming control structures (sequence, selection, and repetition), lists and tuples, I/O using text, binary, and csv data files, program modules and functions, debugging, exception handling, and using built-in modules. There will be, if time permits, an introduction to object-oriented programming. The student is expected to use some math skills at the Intermediate Algebra level.[^1]
